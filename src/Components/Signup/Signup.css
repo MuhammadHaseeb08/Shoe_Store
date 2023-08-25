@@ -1,0 +1,19 @@
+.cont{
+    width: 370px;
+    margin: auto;
+    height: 70px;
+    margin-top: 10px;
+    border-radius: 5px;
+    color: rgb(0, 132, 255);
+}
+.error{
+    color: red;
+}
+.main{
+    width: 100vw;
+    height: 10vh;
+    background-color: rgb(165, 161, 161);
+}
+
+
+/* box-shadow: 0 2px 4px rgb(0 0 0 / 10%), 0 8px 16px rgb(0 0 0 / 10%); */

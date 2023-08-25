@@ -1,0 +1,20 @@
+.productimg{
+    width: 100px;
+    height: 100px;
+    /* background-color: aqua; */
+    /* border: 1px solid red; */
+    overflow: hidden;
+    background-size: contain;
+   
+  
+    
+}
+/* .adj{
+    width: 50px;
+} */
+.total{
+    margin: auto;
+    left: 700px;
+    position: absolute;
+    color: grey;
+}

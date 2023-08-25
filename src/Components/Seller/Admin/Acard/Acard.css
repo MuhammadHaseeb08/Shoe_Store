@@ -1,0 +1,8 @@
+.amain{
+    justify-content: center;
+    display: flex;
+    text-align: center;
+    top: 20%;
+    /* column-gap: 20rem;
+    position: relative; */
+}

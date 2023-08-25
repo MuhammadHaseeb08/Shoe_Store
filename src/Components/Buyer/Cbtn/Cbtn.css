@@ -1,0 +1,20 @@
+.cartbtn{
+    z-index: 2147483646;
+    top: undefined;
+    bottom: 15px;
+    right: 15px;
+    /* right: undefined; */
+    position: fixed;
+    /* height: 68px; */
+    /* box-sizing: border-box; */
+    /* background: #212B36; */
+    font-family: Roboto, sans-serif;
+    display: flex;
+    align-items: center;
+    /* box-shadow: 2px 2px 8px 0 rgb(0 0 0 / 35%); */
+    /* max-width: 68px; */
+    /* transition: max-width 0.8s, left 0.6s; */
+    /* border-radius: 12px; */
+    overflow: hidden;
+
+}

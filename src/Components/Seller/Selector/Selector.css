@@ -1,0 +1,16 @@
+.mainS{
+    /* display: flex   ;
+    justify-content: center;
+    position: relative;
+   row-gap: 10px; */
+    /* left: 10%; */
+    
+   
+}
+body{
+    background-color: rgb(253, 250, 250);
+}
+
+.mains{
+    background-color: aqua;
+}
